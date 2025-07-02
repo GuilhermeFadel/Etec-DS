@@ -1,0 +1,36 @@
+.form{
+color: white;
+position: absolute;
+left: 50%;
+top: 50%;
+transform:translate(-50%,-50%) ;
+background-color: rgba(0,0,0, 0.8);
+width: 20%;
+padding: 15px;
+border-radius: 15px;
+}
+.body{
+font-family: Arial, Helvetica, sans-serif;
+background-image: linear-gradient(to right, rgb(20,147,200), rgb(17,54,71));
+
+}
+.cxnome{
+
+    border-radius: 15px;
+}
+.cxfone{
+
+    border-radius: 15px;
+}
+.cxemail{
+
+    border-radius: 15px;
+}
+.legenda{
+
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: center;
+    background-color: dodgerblue;
+    border-radius:8px ;
+}
